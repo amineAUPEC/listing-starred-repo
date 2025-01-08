@@ -112,3 +112,10 @@ Flow.Launcher,Flow-Launcher,:mag: Quick file search & app launcher for Windows w
 dotfiles-win,ChristianLempa,These are my user-specific configuration files that I use to personalize my Windows experience.,https://github.com/ChristianLempa/dotfiles-win  
 xpra,Xpra-org,"Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.",https://github.com/Xpra-org/xpra  
 pywinauto,pywinauto,Windows GUI Automation with Python (based on text properties),https://github.com/pywinauto/pywinauto  
+
+
+## man viewer 
+qman, plp13, a man viewer,https://github.com/plp13/qman  
+
+
+## 
